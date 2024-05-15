@@ -1,6 +1,7 @@
 +++
 title = 'Blue Sky Initiative: Nanoparticles and Biofilms Educational Computer Game'
 categories = [ "Projects" ]
+tags = [ "game-development" ]
 date = 2021-09-15T14:29:36-05:00
 draft = false
 +++

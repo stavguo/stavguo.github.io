@@ -1,6 +1,7 @@
 +++
 title = 'Witchess'
 categories = [ "Projects" ]
+tags = [ "game-development" ]
 date = 2021-04-21T00:00:00-05:00
 draft = false
 image = 'cover.jpeg'

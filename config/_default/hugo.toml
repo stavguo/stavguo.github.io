@@ -1,4 +1,0 @@
-baseURL = 'https://stavguo.github.io/'
-languageCode = 'en-us'
-title = "Gustavo D'Mello"
-theme = 'hugo-theme-stack'

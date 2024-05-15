@@ -8,14 +8,6 @@
 #newtab = true
 
 [[social]]
-identifier = "mail"
-name = "Mail"
-url = "mailto:stavguo@duck.com"
-
-[social.params]
-icon = "mail"
-
-[[social]]
 identifier = "github"
 name = "GitHub"
 url = "https://github.com/stavguo"
@@ -24,9 +16,17 @@ url = "https://github.com/stavguo"
 icon = "brand-github"
 
 [[social]]
+identifier = "email"
+name = "email"
+url = "mailto:gustavodmello@duck.com"
+
+[social.params]
+icon = "mail"
+
+[[social]]
 identifier = "linkedin"
 name = "LinkedIn"
-url = "https://www.linkedin.com/in/stavguo/"
+url = "https://linkedin.com/in/stavguo/"
 
 [social.params]
 icon = "brand-linkedin"

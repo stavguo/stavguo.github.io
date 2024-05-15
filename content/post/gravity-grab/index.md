@@ -1,6 +1,7 @@
 +++
 title = 'Gravity Grab'
 categories = [ "Projects" ]
+tags = [ "game-development" ]
 date = 2021-03-03T00:00:00-05:00
 draft = false
 image = 'cover.png'
