@@ -18,15 +18,15 @@ icon = "brand-github"
 [[social]]
 identifier = "email"
 name = "email"
-url = "mailto:gustavodmello@duck.com"
+url = "mailto:gustavodm3110@gmail.com"
 
 [social.params]
 icon = "mail"
 
 [[social]]
-identifier = "linkedin"
-name = "LinkedIn"
-url = "https://linkedin.com/in/stavguo/"
+identifier = "resume"
+name = "Resume"
+url = "/resume.pdf"
 
 [social.params]
-icon = "brand-linkedin"
+icon = "file-cv"
