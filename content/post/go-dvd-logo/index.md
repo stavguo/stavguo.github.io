@@ -1,7 +1,7 @@
 +++
 title = 'Bouncing DVD Logo Demo in Go'
 date = 2025-08-05T08:14:59-04:00
-draft = true
+draft = false
 image = 'cover.png'
 [[links]]
 title = "Ebitengine"
