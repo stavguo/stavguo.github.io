@@ -1,7 +1,7 @@
 ---
 title: Projects
 description: Academic and personal projects I have worked on.
-image: '../../posts/proc-gen-city/cover.png'
+image: 'cover.png'
 
 # Badge style
 style:
