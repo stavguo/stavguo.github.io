@@ -7,7 +7,7 @@ draft = false
 image = 'cover.png'
 +++
 
-I started this project shortly after I wrapped up my [Object Aligned Bounding Box (OBB) implementation]({{< ref "post/obb" >}}). I wanted to synthetically create a city layout (comprised solely of streets and buildings) that felt organic by combining several ideas: [Poisson disk sampling](<https://en.wikipedia.org/wiki/Supersampling#Poisson_disk>), [Voronoi diagrams](<https://en.wikipedia.org/wiki/Voronoi_diagram>), and OBB.
+I started this project shortly after I wrapped up my [Object Aligned Bounding Box (OBB) implementation]({{< ref "posts/obb" >}}). I wanted to synthetically create a city layout (comprised solely of streets and buildings) that felt organic by combining several ideas: [Poisson disk sampling](<https://en.wikipedia.org/wiki/Supersampling#Poisson_disk>), [Voronoi diagrams](<https://en.wikipedia.org/wiki/Voronoi_diagram>), and OBB.
 
 Firstly, Poisson disk sampling is used because it is an efficient way of generating random points throughout a two-dimensional space while still retaining control of the minimum amount of space between any two random points. If I just randomly selected points, there could figuratively be microscopic buildings if two points were too close together.
 
