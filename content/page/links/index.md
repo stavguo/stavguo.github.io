@@ -10,6 +10,10 @@ links:
     description: https://github.com/stavguo
     website: https://github.com/stavguo
     image: "github-mark.svg"
+  - title: Resume
+    description: https://gustavo.zip/resume.pdf
+    website: /resume.pdf
+    image: "file-cv.svg"
 menu:
     main: 
         weight: 4
